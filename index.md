@@ -5,7 +5,7 @@ I am a PhD student of condensed matter theory working in the group of Prof. Marc
 I am broadly interested in strongly correlated systems and topological quantum states. 
 My research is mainly focused on numerical investigation of low dimensional quantum systems.
 
-## numerical study of strongly correlated systems
+## Numerical study of strongly correlated systems
 For strongly correlated systems in general, analytical approaches are often limited, if not nonexistent. 
 Thus numerical methods serve as an important tool, both to support analytical argument and conjectures, and to uncover and inspire new ideas. 
 A significant example of the latter is the density matrix renormalization group (DMRG) \[[Schollwock2011](https://doi.org/10.1016/j.aop.2010.09.012)\], which along with other works underscore the entanglement entropy as a relevant parameter in identifying topological order and naturally generalizes to other tensor network constructions. 
@@ -33,6 +33,13 @@ In \[[Lantagne2018](10.1103/PhysRevB.97.235124)\], we calculate the OTOC in gene
 In an ongoing project, we focus on the Heisenberg spin chains and calculate the OTOC with the SU(2) invariant TEBD mentioned above. We are able to map out the lightcone structure and extract the Lyapunov exponent for spin up to 5.
 
 # Publications
+[Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en)
 
 # More about me
+My name is written as 李成疏 in Chinese and it is pronounced as /li²¹⁴ ʈ͡ʂʰɤŋ³⁵ ʂu⁵⁵/. 
+(Not familiar with these symbols? Try reading [IPA](https://https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). Did you know that [Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese), like many other languages in the world, is a [tonal language](https://en.wikipedia.org/wiki/Tone_(linguistics))?) 
+I was born in [Zhangjiakou](https://en.wikipedia.org/wiki/Zhangjiakou), a city near [Beijing](https://en.wikipedia.org/wiki/Beijing), and moved to [Shanghai](https://en.wikipedia.org/wiki/Shanghai) at the age of 5.  I went to Beijing for my undergrad and have lived in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) since 2015.
+
+Apart from physics, I am interested in linguistics, language learning, classical music, and animes. 
+
 
