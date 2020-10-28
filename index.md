@@ -36,10 +36,11 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en)
 
 # More about me
-My name is written as 李成疏 in Chinese and it is pronounced as /li²¹⁴ ʈ͡ʂʰɤŋ³⁵ ʂu⁵⁵/. 
-(Not familiar with these symbols? Try reading [IPA](https://https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). Did you know that [Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese), like many other languages in the world, is a [tonal language](https://en.wikipedia.org/wiki/Tone_(linguistics))?) 
+My name is written as 李成疏 in Chinese and it is pronounced as /li<sup>214</sup> ʈ͡ʂʰɤŋ<sup>35</sup> ʂu<sup>55</sup>/. 
+(Not familiar with these symbols? They are called [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) and can be used to describe any language in the world! Did you know that [Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese), like many other languages in the world, is a [tonal language](https://en.wikipedia.org/wiki/Tone_(linguistics))?) 
 I was born in [Zhangjiakou](https://en.wikipedia.org/wiki/Zhangjiakou), a city near [Beijing](https://en.wikipedia.org/wiki/Beijing), and moved to [Shanghai](https://en.wikipedia.org/wiki/Shanghai) at the age of 5.  I went to Beijing for my undergrad and have lived in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) since 2015.
 
 Apart from physics, I am interested in linguistics, language learning, classical music, and animes. 
 
-
+# Contact
+chengshu(at)phas(dot)ubc(dot)ca
