@@ -41,7 +41,7 @@ My name is written as 李成疏 in Chinese and it is pronounced as /li<sup>214</
 
 I was born in [Zhangjiakou](https://en.wikipedia.org/wiki/Zhangjiakou), a city near [Beijing](https://en.wikipedia.org/wiki/Beijing), and moved to [Shanghai](https://en.wikipedia.org/wiki/Shanghai) at the age of 5.  I went to Beijing for my undergrad and have lived in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) since 2015.
 
-Apart from physics, I am interested in linguistics, language learning([français](https://en.wikipedia.org/wiki/French_language) and [日本語](https://en.wikipedia.org/wiki/Japanese_language)), classical music, and animes. 
+Apart from physics, I am interested in linguistics, language learning ([français](https://en.wikipedia.org/wiki/French_language) and [日本語](https://en.wikipedia.org/wiki/Japanese_language)), classical music, and animes. 
 
 # Contact
 chengshu(at)phas(dot)ubc(dot)ca
