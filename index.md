@@ -27,7 +27,7 @@ We explore the first approach in \[[Li2019](https://doi.org/10.1103/PhysRevB.100
 ## Quantum chaos and dynamics
 Another topic I have been focused on is quantum chaos. 
 While its classical counterpart is formulated with differential equations, quantum dynamics of closed system is described by unitary evolution, complicating an application of classical chaos ideas to the quantum regime. 
-One quantity that has drawn significant research interests recently is the out-of-time correlator (OTOC), which is a generalization of the classical idea of ``dependence of later time motion on the variance at the initial time''. 
+One quantity that has drawn significant research interests recently is the out-of-time correlator (OTOC), which is a generalization of the classical idea of "dependence of later time motion on the variance at the initial time". 
 From a quantum information point of view, OTOC characterizes how information is scrambled in the quantum system. The time dependence of OTOC further allows a definition of the quantum Lyapunov exponent, the classical counterpart of which plays a fundamental role in chaos theory. 
 In \[[Lantagne2018](10.1103/PhysRevB.97.235124)\], we calculate the OTOC in generalized SYK models and find similar behaviour as the original SYK model. 
 In an ongoing project, we focus on the Heisenberg spin chains and calculate the OTOC with the SU(2) invariant TEBD mentioned above. We are able to map out the lightcone structure and extract the Lyapunov exponent for spin up to 5.
@@ -38,9 +38,10 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # More about me
 My name is written as 李成疏 in Chinese and it is pronounced as /li<sup>214</sup> ʈ͡ʂʰɤŋ<sup>35</sup> ʂu<sup>55</sup>/. 
 (Not familiar with these symbols? They are called [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) and can be used to describe any language in the world! Did you know that [Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese), like many other languages in the world, is a [tonal language](https://en.wikipedia.org/wiki/Tone_(linguistics))?) 
+
 I was born in [Zhangjiakou](https://en.wikipedia.org/wiki/Zhangjiakou), a city near [Beijing](https://en.wikipedia.org/wiki/Beijing), and moved to [Shanghai](https://en.wikipedia.org/wiki/Shanghai) at the age of 5.  I went to Beijing for my undergrad and have lived in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) since 2015.
 
-Apart from physics, I am interested in linguistics, language learning, classical music, and animes. 
+Apart from physics, I am interested in linguistics, language learning([français](https://en.wikipedia.org/wiki/French_language) and [日本語](https://en.wikipedia.org/wiki/Japanese_language)), classical music, and animes. 
 
 # Contact
 chengshu(at)phas(dot)ubc(dot)ca
