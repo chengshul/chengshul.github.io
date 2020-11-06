@@ -6,7 +6,7 @@ I am broadly interested in strongly correlated systems and topological quantum s
 My research is mainly focused on numerical investigation of low dimensional quantum systems.
 
 ## Numerical study of strongly correlated systems
-![1](https://github.com/chengshul/chengshul.github.io/blob/main/1.png)
+![1](https://raw.githubusercontent.com/chengshul/chengshul.github.io/main/1.png)
 For strongly correlated systems in general, analytical approaches are often limited, if not nonexistent. 
 Thus numerical methods serve as an important tool, both to support analytical argument and conjectures, and to uncover and inspire new ideas. 
 A significant example of the latter is the density matrix renormalization group (DMRG) \[[Schollwock2011](https://doi.org/10.1016/j.aop.2010.09.012)\], which along with other works underscore the entanglement entropy as a relevant parameter in identifying topological order and naturally generalizes to other tensor network constructions. 
@@ -21,13 +21,13 @@ For (quasi) 1D systems with local interactions, the area law dictates that the e
 Combining DMRG simulations with mean field and conformal field theoretical (CFT) arguments, we construct in \[[Li2020](https://doi.org/10.1103/PhysRevB.102.165123)\] a topological phase in 2D with tricritical Ising modes on its edges. I also implemented an MPS routine that fully incorporates the SU(2) symmetry, thus significantly reducing the computational cost compared to the usual U(1) realization for several ongoing projects.
 
 ## Emergent high-energy phenomena in condensed matter physics
-![3](https://github.com/chengshul/chengshul.github.io/blob/main/3.png)
+![3](https://raw.githubusercontent.com/chengshul/chengshul.github.io/main/3.png)
 Recent decades have witnessed a flourishing of high-energy ideas realized in condensed matter systems, from elusive particles like Majorana and Weyl fermions to deep principles including the AdS-CFT duality. One topic of great interest to me is supersymmetry (SUSY).
 In the condensed matter literature, there are mainly two approaches that lead to SUSY -- either constructing an explicit SUSY Hamiltonian and asking whether the ground states spontaneously break the symmetry, or looking for ground states in non-SUSY systems that are described by a SUSY field theory. 
 We explore the first approach in \[[Li2019](https://doi.org/10.1103/PhysRevB.100.195146)\] in a Majorana model on the kagome lattice, and the second in \[[Li2020](https://doi.org/10.1103/PhysRevB.102.165123)\] as a coupled wire construction of the Grover-Sheng-Vishwanash model \[[Grover2014](https://doi.org/10.1126/science.1248253)\].
 
 ## Quantum chaos and dynamics
-![2](https://github.com/chengshul/chengshul.github.io/blob/main/2.png)
+![2](https://raw.githubusercontent.com/chengshul/chengshul.github.io/main/2.png)
 Another topic I have been focused on is quantum chaos. 
 While its classical counterpart is formulated with differential equations, quantum dynamics of closed system is described by unitary evolution, complicating an application of classical chaos ideas to the quantum regime. 
 One quantity that has drawn significant research interests recently is the out-of-time-order correlator (OTOC), which is a generalization of the classical idea of "dependence of later time motion on the variance at the initial time". 
