@@ -32,7 +32,7 @@ Another topic I have been focused on is quantum chaos.
 While its classical counterpart is formulated with differential equations, quantum dynamics of closed system is described by unitary evolution, complicating an application of classical chaos ideas to the quantum regime. 
 One quantity that has drawn significant research interests recently is the out-of-time-order correlator (OTOC), which is a generalization of the classical idea of "dependence of later time motion on the variance at the initial time". 
 From a quantum information point of view, OTOC characterizes how information is scrambled in the quantum system. The time dependence of OTOC further allows a definition of the quantum Lyapunov exponent, the classical counterpart of which plays a fundamental role in chaos theory. 
-In \[[Lantagne2018](10.1103/PhysRevB.97.235124)\], we calculate the OTOC in generalized SYK models and find similar behaviour as the original SYK model. 
+In \[[Lantagne2018](https://doi.org/10.1103/PhysRevB.97.235124)\], we calculate the OTOC in generalized SYK models and find similar behaviour as the original SYK model. 
 In an ongoing project, we focus on the Heisenberg spin chains and calculate the OTOC with the SU(2) invariant TEBD mentioned above. We are able to map out the lightcone structure and extract the Lyapunov exponent for spin up to 5.
 
 # Publications
