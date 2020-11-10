@@ -13,5 +13,62 @@ h2 {
 img {
     max-width: 640px;
 }
-@media screen and (max-width: 992px) { img { max-width: 100%; } }
+
+div.top_nav {
+    background-color: #929292;
+    top: 0;
+    font: inherit;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    z-index: 3;
+    height: 50px;
+}
+
+ul.top_nav{
+    list-style-type: none;
+    max-width: 640px;
+    margin: 0 auto;
+    height: 50px;
+}
+
+#main_content_wrap {
+    border-top: none;
+}
+
+body {
+background-color: #323232;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 25px 10px 25px;
+  vertical-align: baseline;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+li a:hover {
+  text-decoration: none;
+  background-color: #373737;
+  color: white;
+}
+
+html {
+  scroll-padding-top: 70px; /* height of sticky header */
+}
+
+@media screen and (max-width: 992px) {
+img {
+    max-width: 100%; 
+}
+div.top_nav {
+    display: none;
+}
+}
 
