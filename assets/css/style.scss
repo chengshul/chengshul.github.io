@@ -15,7 +15,7 @@ img {
 }
 
 div.top_nav {
-    background-color: #929292;
+    background: linear-gradient(to bottom, #929292,#969696);
     top: 0;
     font: inherit;
     position: -webkit-sticky; /* Safari */
@@ -33,10 +33,6 @@ ul.top_nav{
 
 #main_content_wrap {
     border-top: none;
-}
-
-body {
-background-color: #323232;
 }
 
 li {
