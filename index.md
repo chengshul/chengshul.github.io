@@ -1,4 +1,4 @@
-I am a PhD student of condensed matter theory working in the group of Prof. Marcel Franz.
+I am a postdoc of theoretical many-body physics working in the group of Prof. Hui Zhai.
 
 # Research
 
@@ -49,9 +49,9 @@ The asterisk (\*) denotes equal contribution.
 My name is written as 李成疏 in Chinese and it is pronounced as /li<sup>21(4)</sup> ʈ͡ʂʰɤŋ<sup>35</sup> ʂu<sup>55</sup>/. 
 (Not familiar with these symbols? They are called [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) and can be used to describe any language in the world! Did you know that [Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese), like many other languages in the world, is a [tonal language](https://en.wikipedia.org/wiki/Tone_(linguistics))?) 
 
-I was born in [Zhangjiakou](https://en.wikipedia.org/wiki/Zhangjiakou), a city near [Beijing](https://en.wikipedia.org/wiki/Beijing), and moved to [Shanghai](https://en.wikipedia.org/wiki/Shanghai) at the age of 5.  I went to Beijing for my undergrad and have lived in [Vancouver](https://en.wikipedia.org/wiki/Vancouver) since 2015.
+I was born in [Zhangjiakou](https://en.wikipedia.org/wiki/Zhangjiakou), a city near [Beijing](https://en.wikipedia.org/wiki/Beijing), and moved to [Shanghai](https://en.wikipedia.org/wiki/Shanghai) at the age of 5.  I went to Beijing for my undergrad and went to grad school in [Vancouver](https://en.wikipedia.org/wiki/Vancouver).
 
 Apart from physics, I am interested in linguistics, language learning ([français](https://en.wikipedia.org/wiki/French_language) and [日本語](https://en.wikipedia.org/wiki/Japanese_language)), [classical music](https://youtu.be/yM8CFR01KwQ), and [animes](https://en.wikipedia.org/wiki/Puella_Magi_Madoka_Magica). 
 
 # Contact
-chengshu(at)phas(dot)ubc(dot)ca
+lichengshu272(at)gmail(dot)com
