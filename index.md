@@ -38,6 +38,7 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "The case of SU(3) criticality in spin-2 chains", **CL**, Victor L. Quito, Eduardo Miranda, Rodrigo Pereira, Ian Affleck, and Pedro L. S. Lopes, [Phys. Rev. B **105**, 085140 (2020)](https://doi.org/10.1103/PhysRevB.105.085140), [arXix:2108.10329](https://arxiv.org/abs/2108.10329).
 * "Coupled wire construction of a topological phase with chiral tricritical Ising edge modes", **CL**, Hiromi Ebisu, Sharmistha Sahoo, Yuval Oreg, and Marcel Franz, [Phys. Rev. B **102**, 165123 (2020)](https://doi.org/10.1103/PhysRevB.102.165123), [arXiv:2008.04438](https://arxiv.org/abs/2008.04438).  
 * "Supersymmetry in an interacting Majorana model on the kagome lattice", **CL**\*, Étienne Lantagne-Hurtubise\*, and Marcel Franz, [Phys. Rev. B **100**, 195146 (2019)](https://doi.org/10.1103/PhysRevB.100.195146), [arXiv:1811.06104](https://arxiv.org/abs/1811.06104).  
 * "Majorana-Hubbard model on the honeycomb lattice", **CL** and Marcel Franz, [Phys. Rev. B **98**, 115123 (2018)](https://doi.org/10.1103/PhysRevB.98.115123), [arXiv:1806.06092](https://arxiv.org/abs/1806.06092).  
