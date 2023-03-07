@@ -38,7 +38,7 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
-* "Gauge theory description of Rydberg atom arrays with a tunable blockade radius", Yanting Cheng and **CL**, [arXiv:2212.14644](https://arxiv.org/abs/2212.14644).
+* "Gauge theory description of Rydberg atom arrays with a tunable blockade radius", Yanting Cheng and **CL**, [Phys. Rev. B **107**, 094302 (2023)](https://doi.org/10.1103/PhysRevB.107.094302), [arXiv:2212.14644](https://arxiv.org/abs/2212.14644).
 * "Lee-Yang zeros in the Rydberg atoms", **CL** and Fan Yang, [Front. Phys. **18**, 22301 (2023)](https://doi.org/10.1007/s11467-022-1226-6), [arXiv:2203.16128](https://arxiv.org/abs/2203.16128).
 * "Variational Approach to Quantum Spin Liquid in a Rydberg Atom Simulator", Yanting Cheng, **CL**, and Hui Zhai, [arXiv:2112.13688](https://arxiv.org/abs/2112.13688).
 * "The case of SU(3) criticality in spin-2 chains", **CL**, Victor L. Quito, Eduardo Miranda, Rodrigo Pereira, Ian Affleck, and Pedro L. S. Lopes, [Phys. Rev. B **105**, 085140 (2022)](https://doi.org/10.1103/PhysRevB.105.085140), [arXiv:2108.10329](https://arxiv.org/abs/2108.10329).
