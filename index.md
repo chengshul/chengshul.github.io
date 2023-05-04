@@ -38,6 +38,7 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice", **CL**, Ming-Gen He, Chang-Yan Wang, and Hui Zhai, [arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
 * "Gauge theory description of Rydberg atom arrays with a tunable blockade radius", Yanting Cheng and **CL**, [Phys. Rev. B **107**, 094302 (2023)](https://doi.org/10.1103/PhysRevB.107.094302), [arXiv:2212.14644](https://arxiv.org/abs/2212.14644).
 * "Lee-Yang zeros in the Rydberg atoms", **CL** and Fan Yang, [Front. Phys. **18**, 22301 (2023)](https://doi.org/10.1007/s11467-022-1226-6), [arXiv:2203.16128](https://arxiv.org/abs/2203.16128).
 * "Variational Approach to Quantum Spin Liquid in a Rydberg Atom Simulator", Yanting Cheng, **CL**, and Hui Zhai, [New J. Phys. **25**, 033010 (2023)](https://doi.org/10.1088/1367-2630/acc125), [arXiv:2112.13688](https://arxiv.org/abs/2112.13688).
