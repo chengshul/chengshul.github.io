@@ -38,7 +38,7 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
-* "G<sub>2</sub> Integrable Point Characterization via Isotropic Spin-3 Chains", **CL**, Victor L. Quito, Dirk Schuricht, and Pedro L. S. Lopes, [arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
+* "G<sub style="font-size: 0.7em; vertical-align: sub">2</sub> Integrable Point Characterization via Isotropic Spin-3 Chains", **CL**, Victor L. Quito, Dirk Schuricht, and Pedro L. S. Lopes, [arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
 * "Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice", **CL**, Ming-Gen He, Chang-Yan Wang, and Hui Zhai, [arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
 * "Gauge theory description of Rydberg atom arrays with a tunable blockade radius", Yanting Cheng and **CL**, [Phys. Rev. B **107**, 094302 (2023)](https://doi.org/10.1103/PhysRevB.107.094302), [arXiv:2212.14644](https://arxiv.org/abs/2212.14644).
 * "Lee-Yang zeros in the Rydberg atoms", **CL** and Fan Yang, [Front. Phys. **18**, 22301 (2023)](https://doi.org/10.1007/s11467-022-1226-6), [arXiv:2203.16128](https://arxiv.org/abs/2203.16128).
