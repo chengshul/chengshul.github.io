@@ -38,7 +38,7 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
-* "Euler–Chern Correspondence via Topological Superconductivity", Fan Yang\*, Xingyu Li\*, and **CL**, [arXiv:2305.16113](https://arXiv.org/abs/2305.16113).
+* "Euler–Chern Correspondence via Topological Superconductivity", Fan Yang\*, Xingyu Li\*, and **CL**, [Phys. Rev. Res. **5**, 033073 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033073), [arXiv:2305.16113](https://arxiv.org/abs/2305.16113).
 * "G<sub style="font-size: 0.7em; vertical-align: sub">2</sub> Integrable Point Characterization via Isotropic Spin-3 Chains", **CL**, Victor L. Quito, Dirk Schuricht, and Pedro L. S. Lopes, [arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
 * "Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice", **CL**, Ming-Gen He, Chang-Yan Wang, and Hui Zhai, [arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
 * "Gauge theory description of Rydberg atom arrays with a tunable blockade radius", Yanting Cheng and **CL**, [Phys. Rev. B **107**, 094302 (2023)](https://doi.org/10.1103/PhysRevB.107.094302), [arXiv:2212.14644](https://arxiv.org/abs/2212.14644).
