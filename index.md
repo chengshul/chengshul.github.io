@@ -36,17 +36,17 @@ In \[[Lantagne2018](https://doi.org/10.1103/PhysRevB.97.235124)\], we calculate 
 In an ongoing project, we focus on the Heisenberg spin chains and calculate the OTOC with the SU(2) invariant TEBD mentioned above. We are able to map out the lightcone structure and extract the Lyapunov exponent for spin up to 5.
 
 # Short CV
-2021.10 – now | Postdoc 
- | Tsinghua University
- | Supervisor: Prof. Hui Zhai
-Sep 2017 – Jul 2021 | PhD in Physics
- | University of British Columbia
- | Supervisor: Prof. Marcel Franz
-Sep 2015 – Aug 2017 | MSc in Physics
- | University of British Columbia
- | Supervisor: Prof. Marcel Franz
-Aug 2011 – Jul 2015 | BSc in Physics
- | Tsinghua University
+| 2021.10 – now | Postdoc |
+| | Tsinghua University |
+| | Supervisor: Prof. Hui Zhai |
+| Sep 2017 – Jul 2021 | PhD in Physics |
+| | University of British Columbia |
+| | Supervisor: Prof. Marcel Franz |
+| Sep 2015 – Aug 2017 | MSc in Physics |
+| | University of British Columbia |
+| | Supervisor: Prof. Marcel Franz |
+| Aug 2011 – Jul 2015 | BSc in Physics |
+| | Tsinghua University |
 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
