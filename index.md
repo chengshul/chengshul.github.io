@@ -35,9 +35,23 @@ From a quantum information point of view, OTOC characterizes how information is 
 In \[[Lantagne2018](https://doi.org/10.1103/PhysRevB.97.235124)\], we calculate the OTOC in generalized SYK models and find similar behaviour as the original SYK model. 
 In an ongoing project, we focus on the Heisenberg spin chains and calculate the OTOC with the SU(2) invariant TEBD mentioned above. We are able to map out the lightcone structure and extract the Lyapunov exponent for spin up to 5.
 
+# Short CV
+2021.10 – now | Postdoc 
+ | Tsinghua University
+ | Supervisor: Prof. Hui Zhai
+Sep 2017 – Jul 2021 | PhD in Physics
+ | University of British Columbia
+ | Supervisor: Prof. Marcel Franz
+Sep 2015 – Aug 2017 | MSc in Physics
+ | University of British Columbia
+ | Supervisor: Prof. Marcel Franz
+Aug 2011 – Jul 2015 | BSc in Physics
+ | Tsinghua University
+
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "Reviving the Lieb–Schultz–Mattis Theorem in Open Quantum Systems", Yi-Neng Zhou\*, Xingyu Li\*, Hui Zhai, **CL**, and Yingfei Gu, [arXiv:2310.01475](https://arxiv.org/abs/2310.01475).
 * "Euler–Chern Correspondence via Topological Superconductivity", Fan Yang\*, Xingyu Li\*, and **CL**, [Phys. Rev. Res. **5**, 033073 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033073), [arXiv:2305.16113](https://arxiv.org/abs/2305.16113).
 * "G<sub style="font-size: 0.7em; vertical-align: sub">2</sub> Integrable Point Characterization via Isotropic Spin-3 Chains", **CL**, Victor L. Quito, Dirk Schuricht, and Pedro L. S. Lopes, [arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
 * "Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice", **CL**, Ming-Gen He, Chang-Yan Wang, and Hui Zhai, [arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
