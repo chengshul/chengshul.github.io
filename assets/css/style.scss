@@ -55,7 +55,14 @@ li.top_nav a:hover {
   color: white;
 }
 
-table { border-collapse:collapse }
+table {
+  border: none;
+  border-collapse:collapse;
+}
+
+td {
+ border-style : hidden!important;
+}
 
 html {
   scroll-padding-top: 70px; /* height of sticky header */
