@@ -68,6 +68,10 @@ th {
   background: #f2f2f2;
 }
 
+th:empty {
+  visibility: hidden;
+}
+
 html {
   scroll-padding-top: 70px; /* height of sticky header */
 }
