@@ -37,7 +37,6 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 
 # Short CV
 
-| | |
 | --- | --- |
 | 2021.10 – now | Postdoc |
 | | Tsinghua University |
