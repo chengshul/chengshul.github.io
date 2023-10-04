@@ -38,7 +38,7 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Short CV
 
 | --- | --- |
-| 2021.10 – now | Postdoc |
+| Oct 2021 – now | Postdoc |
 | | Tsinghua University |
 | | Supervisor: Prof. Hui Zhai |
 | Sep 2017 – Jul 2021 | PhD in Physics |
