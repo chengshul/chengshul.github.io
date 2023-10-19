@@ -57,12 +57,12 @@ Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&
 * "Reviving the Lieb–Schultz–Mattis Theorem in Open Quantum Systems",\
 Yi-Neng Zhou\*, Xingyu Li\*, Hui Zhai, **CL**, and Yingfei Gu,\
 [arXiv:2310.01475](https://arxiv.org/abs/2310.01475).
-* "Euler–Chern Correspondence via Topological Superconductivity",\
+* "Euler–Chern correspondence via topological superconductivity",\
 Fan Yang\*, Xingyu Li\*, and **CL**,\
 [Phys. Rev. Res. **5**, 033073 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033073), [arXiv:2305.16113](https://arxiv.org/abs/2305.16113).
-* "G<sub style="font-size: 0.7em; vertical-align: sub">2</sub> Integrable Point Characterization via Isotropic Spin-3 Chains",\
+* "G<sub style="font-size: 0.7em; vertical-align: sub">2</sub> integrable point characterization via isotropic spin-3 chains",\
 **CL**, Victor L. Quito, Dirk Schuricht, and Pedro L. S. Lopes,\
-[arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
+[Phys. Rev. B **108**, 165123 (2023)](https://doi.org/10.1103/PhysRevB.108.165123), [arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
 * "Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice",\
 **CL**, Ming-Gen He, Chang-Yan Wang, and Hui Zhai,\
 [arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
@@ -72,7 +72,7 @@ Yanting Cheng and **CL**,\
 * "Lee–Yang zeros in the Rydberg atoms",\
 **CL** and Fan Yang,\
 [Front. Phys. **18**, 22301 (2023)](https://doi.org/10.1007/s11467-022-1226-6), [arXiv:2203.16128](https://arxiv.org/abs/2203.16128).
-* "Variational Approach to Quantum Spin Liquid in a Rydberg Atom Simulator",\
+* "Variational approach to quantum spin liquid in a Rydberg atom simulator",\
 Yanting Cheng, **CL**, and Hui Zhai,\
 [New J. Phys. **25**, 033010 (2023)](https://doi.org/10.1088/1367-2630/acc125), [arXiv:2112.13688](https://arxiv.org/abs/2112.13688).
 * "The case of SU(3) criticality in spin-2 chains",\
