@@ -1,6 +1,7 @@
 I am a postdoc of theoretical many-body physics working in the group of Prof. Hui Zhai.
 
 # Research
+(updated Sep 2021)
 
 I am broadly interested in strongly correlated systems and topological quantum states. 
 My research is mainly focused on numerical investigation of low dimensional quantum systems.
@@ -54,6 +55,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "Numerical Investigations of the Extensive Entanglement Hamiltonian in Quantum Spin Ladders",\
+**CL**, Xingyu Li, and Yi-Neng Zhou,\
+[arXiv:2311.01699](https://arxiv.org/abs/2311.01699).
 * "Reviving the Lieb–Schultz–Mattis Theorem in Open Quantum Systems",\
 Yi-Neng Zhou\*, Xingyu Li\*, Hui Zhai, **CL**, and Yingfei Gu,\
 [arXiv:2310.01475](https://arxiv.org/abs/2310.01475).
