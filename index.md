@@ -60,7 +60,8 @@ Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&
 [arXiv:2311.01699](https://arxiv.org/abs/2311.01699).
 * "Reviving the Lieb–Schultz–Mattis Theorem in Open Quantum Systems",\
 Yi-Neng Zhou\*, Xingyu Li\*, Hui Zhai, **CL**, and Yingfei Gu,\
-[arXiv:2310.01475](https://arxiv.org/abs/2310.01475).
+[arXiv:2310.01475](https://arxiv.org/abs/2310.01475),\
+highlighted in [the Journal Club for Condensed Matter Physics](https://doi.org/10.36471/JCCM_February_2024_01).
 * "Euler–Chern correspondence via topological superconductivity",\
 Fan Yang\*, Xingyu Li\*, and **CL**,\
 [Phys. Rev. Res. **5**, 033073 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033073), [arXiv:2305.16113](https://arxiv.org/abs/2305.16113).
