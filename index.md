@@ -1,4 +1,4 @@
-I am a postdoc of theoretical many-body physics working in the group of Prof. Hui Zhai.
+I am an associated member of IASTU, working on theoretical many-body physics.
 
 # Research
 (updated Sep 2021)
@@ -39,7 +39,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Short CV
 
 | --- | --- | --- |
-| Oct 2021 – now | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Postdoc |
+| Mar 2024 – now | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Associated member 
+| | | Tsinghua University |
+| Oct 2021 – Mar 2024 | | Postdoc |
 | | | Tsinghua University |
 | | | Supervisor: Prof. Hui Zhai |
 | Sep 2017 – Jul 2021 | | PhD in Physics |
