@@ -1,4 +1,4 @@
-I am an associated member of IASTU, working on theoretical many-body physics.
+I am an associate member of IASTU, working on theoretical many-body physics.
 
 # Research
 (updated Sep 2021)
@@ -39,7 +39,7 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Short CV
 
 | --- | --- | --- |
-| Mar 2024 – now | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Associated member 
+| Mar 2024 – now | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Associate member 
 | | | Tsinghua University |
 | Oct 2021 – Mar 2024 | | Postdoc |
 | | | Tsinghua University |
