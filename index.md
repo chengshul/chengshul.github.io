@@ -72,7 +72,7 @@ Fan Yang\*, Xingyu Li\*, and **CL**,\
 [Phys. Rev. B **108**, 165123 (2023)](https://doi.org/10.1103/PhysRevB.108.165123), [arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
 * "Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice",\
 **CL**, Ming-Gen He, Chang-Yan Wang, and Hui Zhai,\
-[arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
+[Phys. Rev. B **109**, 165131 (2024)](https://doi.org/10.1103/PhysRevB.109.165131), [arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
 * "Gauge theory description of Rydberg atom arrays with a tunable blockade radius",\
 Yanting Cheng and **CL**,\
 [Phys. Rev. B **107**, 094302 (2023)](https://doi.org/10.1103/PhysRevB.107.094302), [arXiv:2212.14644](https://arxiv.org/abs/2212.14644).
