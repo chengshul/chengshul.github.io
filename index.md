@@ -70,7 +70,7 @@ Fan Yang\*, Xingyu Li\*, and **CL**,\
 * "G<sub style="font-size: 0.7em; vertical-align: sub">2</sub> integrable point characterization via isotropic spin-3 chains",\
 **CL**, Victor L. Quito, Dirk Schuricht, and Pedro L. S. Lopes,\
 [Phys. Rev. B **108**, 165123 (2023)](https://doi.org/10.1103/PhysRevB.108.165123), [arXiv:2305.03072](https://arxiv.org/abs/2305.03072).
-* "Frustration induced Itinerant Ferromagnetism of Fermions in Optical Lattice",\
+* "Frustration-induced itinerant ferromagnetism of fermions in optical lattices",\
 **CL**, Ming-Gen He, Chang-Yan Wang, and Hui Zhai,\
 [Phys. Rev. B **109**, 165131 (2024)](https://doi.org/10.1103/PhysRevB.109.165131), [arXiv:2305.01682](https://arxiv.org/abs/2305.01682).
 * "Gauge theory description of Rydberg atom arrays with a tunable blockade radius",\
