@@ -57,6 +57,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "Uncovering Emergent Spacetime Supersymmetry with Rydberg Atom Arrays",\
+**CL**\*, Shang Liu\*, Hanteng Wang, Wenjun Zhang, Zi-Xiang Li, Hui Zhai, and Yingfei Gu,\
+[arXiv:2407.08194](https://arxiv.org/abs/2407.08194).
 * "Numerical investigations of the extensive entanglement Hamiltonian in quantum spin ladders",\
 **CL**, Xingyu Li, and Yi-Neng Zhou,\
 [Quantum Front. **3**, 9 (2024)](https://doi.org/10.1007/s44214-024-00056-2), [arXiv:2311.01699](https://arxiv.org/abs/2311.01699).
