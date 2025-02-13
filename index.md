@@ -57,6 +57,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "Lattice Defects in Rydberg Atom Arrays",\
+Hanteng Wang, **CL**, Xingyu Li, Yingfei Gu, and Shang Liu,\
+[arXiv:2502.07886](https://arxiv.org/abs/2502.07886).
 * "Uncovering Emergent Spacetime Supersymmetry with Rydberg Atom Arrays",\
 **CL**\*, Shang Liu\*, Hanteng Wang, Wenjun Zhang, Zi-Xiang Li, Hui Zhai, and Yingfei Gu,\
 [Phys. Rev. Lett. **133**, 223401 (2024)](https://doi.org/10.1103/PhysRevLett.133.223401), [arXiv:2407.08194](https://arxiv.org/abs/2407.08194).
