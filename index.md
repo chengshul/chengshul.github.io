@@ -57,6 +57,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "Observation of Near-Critical Kibble-Zurek Scaling in Rydberg Atom Arrays",\ 
+Tao Zhang\*, Hanteng Wang\*, Wenjun Zhang\*, Yuqing Wang\*, Angrui Du, Ziqi Li, Yujia Wu, **CL**, Jiazhong Hu, Hui Zhai, and Wenlan Chen,\ 
+[arXiv:2505.07930](https://arxiv.org/abs/2505.07930).
 * "Lattice Defects in Rydberg Atom Arrays",\
 Hanteng Wang, **CL**, Xingyu Li, Yingfei Gu, and Shang Liu,\
 [arXiv:2502.07886](https://arxiv.org/abs/2502.07886).
