@@ -57,6 +57,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
 
+* "Tricritical Kibble–Zurek Scaling in Rydberg Atom Ladders",\
+Hanteng Wang, Xingyu Li, and **CL**,\
+[arXiv:2505.12979](https://arxiv.org/abs/2505.12979).
 * "Observation of Near-Critical Kibble-Zurek Scaling in Rydberg Atom Arrays",\
 Tao Zhang\*, Hanteng Wang\*, Wenjun Zhang\*, Yuqing Wang\*, Angrui Du, Ziqi Li, Yujia Wu, **CL**, Jiazhong Hu, Hui Zhai, and Wenlan Chen,\
 [arXiv:2505.07930](https://arxiv.org/abs/2505.07930).
