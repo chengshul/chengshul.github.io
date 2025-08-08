@@ -56,7 +56,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
-
+* "On Random Displacements in Critical Rydberg Atom Arrays”,\
+Xingyu Li\*, Shuyan Zhou\*, Xue Chen, **CL**, and Hanteng Wang,\
+[arXiv:2508.05381](https://arxiv.org/abs/2508.05381).
 * "Tricritical Kibble–Zurek Scaling in Rydberg Atom Ladders",\
 Hanteng Wang, Xingyu Li, and **CL**,\
 [arXiv:2505.12979](https://arxiv.org/abs/2505.12979).
