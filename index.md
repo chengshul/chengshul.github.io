@@ -55,8 +55,11 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 | | | Supervisor: Prof. Li You & Prof. Meng Khoon Tey |
 
 # Publications
-Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).  
-* "On Random Displacements in Critical Rydberg Atom Arrays”,\
+Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en). 
+* "Certifying Quantum States with Uniform Measurements",\
+Liang Mao\*, Yifei Wang\*, Yingfei Gu, and **CL**,\
+[arXiv:2508.09259](https://arxiv.org/abs/2508.09259).
+* "On Random Displacements in Critical Rydberg Atom Arrays",\
 Xingyu Li\*, Shuyan Zhou\*, Xue Chen, **CL**, and Hanteng Wang,\
 [arXiv:2508.05381](https://arxiv.org/abs/2508.05381).
 * "Tricritical Kibble–Zurek Scaling in Rydberg Atom Ladders",\
