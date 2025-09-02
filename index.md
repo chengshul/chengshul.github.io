@@ -67,7 +67,7 @@ Hanteng Wang, Xingyu Li, and **CL**,\
 [arXiv:2505.12979](https://arxiv.org/abs/2505.12979).
 * "Observation of Near-Critical Kibble-Zurek Scaling in Rydberg Atom Arrays",\
 Tao Zhang\*, Hanteng Wang\*, Wenjun Zhang\*, Yuqing Wang\*, Angrui Du, Ziqi Li, Yujia Wu, **CL**, Jiazhong Hu, Hui Zhai, and Wenlan Chen,\
-[arXiv:2505.07930](https://arxiv.org/abs/2505.07930).
+[Phys. Rev. Lett. **135**, 093403 (2025)](https://doi.org/10.1103/2gwz-65w1), [arXiv:2505.07930](https://arxiv.org/abs/2505.07930).
 * "Lattice Defects in Rydberg Atom Arrays",\
 Hanteng Wang, **CL**, Xingyu Li, Yingfei Gu, and Shang Liu,\
 [arXiv:2502.07886](https://arxiv.org/abs/2502.07886).
