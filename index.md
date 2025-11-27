@@ -55,22 +55,26 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 | | | Supervisor: Prof. Li You & Prof. Meng Khoon Tey |
 
 # Publications
-Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en). 
+Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).
+* "Kibble–Zurek Meets Tricriticality: Breakdown of Adiabatic–Impulse and New Scaling Forms",\
+**CL**,\
+[Chin. Phys. Lett. **43**, 010001 (2026)](https://doi.org/10.1088/0256-307X/43/1/010001), [arXiv:2511.21386](https://arxiv.org/abs/2511.21386),\
+<span style="color:green">invited Research Highlight article</span> for CPL, recommending [CPL **42**, 110001 (2025)](https://doi.org/10.1088/0256-307X/42/11/110001).
 * "Certifying Quantum States with Uniform Measurements",\
 Liang Mao\*, Yifei Wang\*, Yingfei Gu, and **CL**,\
 [arXiv:2508.09259](https://arxiv.org/abs/2508.09259).
-* "On Random Displacements in Critical Rydberg Atom Arrays",\
+* "Random displacements in critical Rydberg atom arrays",\
 Xingyu Li\*, Shuyan Zhou\*, Xue Chen, **CL**, and Hanteng Wang,\
-[arXiv:2508.05381](https://arxiv.org/abs/2508.05381).
-* "Tricritical Kibble–Zurek Scaling in Rydberg Atom Ladders",\
+[Phys. Rev. B **112**, L180202 (2025)](https://doi.org/10.1103/dpn8-63p6), [arXiv:2508.05381](https://arxiv.org/abs/2508.05381).
+* "Tricritical Kibble–Zurek scaling in Rydberg atom ladders",\
 Hanteng Wang, Xingyu Li, and **CL**,\
-[arXiv:2505.12979](https://arxiv.org/abs/2505.12979).
+[Nat. Commun. **16**, 10584 (2025)](https://doi.org/10.1038/s41467-025-65652-9), [arXiv:2505.12979](https://arxiv.org/abs/2505.12979).
 * "Observation of Near-Critical Kibble-Zurek Scaling in Rydberg Atom Arrays",\
 Tao Zhang\*, Hanteng Wang\*, Wenjun Zhang\*, Yuqing Wang\*, Angrui Du, Ziqi Li, Yujia Wu, **CL**, Jiazhong Hu, Hui Zhai, and Wenlan Chen,\
 [Phys. Rev. Lett. **135**, 093403 (2025)](https://doi.org/10.1103/2gwz-65w1), [arXiv:2505.07930](https://arxiv.org/abs/2505.07930).
-* "Lattice Defects in Rydberg Atom Arrays",\
+* "Lattice defects in Rydberg atom arrays",\
 Hanteng Wang, **CL**, Xingyu Li, Yingfei Gu, and Shang Liu,\
-[arXiv:2502.07886](https://arxiv.org/abs/2502.07886).
+[Phys. Rev. B **112**, 205103 (2025)](https://doi.org/10.1103/zf2q-gxr1), [arXiv:2502.07886](https://arxiv.org/abs/2502.07886).
 * "Uncovering Emergent Spacetime Supersymmetry with Rydberg Atom Arrays",\
 **CL**\*, Shang Liu\*, Hanteng Wang, Wenjun Zhang, Zi-Xiang Li, Hui Zhai, and Yingfei Gu,\
 [Phys. Rev. Lett. **133**, 223401 (2024)](https://doi.org/10.1103/PhysRevLett.133.223401), [arXiv:2407.08194](https://arxiv.org/abs/2407.08194).
