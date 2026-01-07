@@ -56,6 +56,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).
+* "General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes",\
+Yue Wu, Meng-Yuan Li, **CL**, and Hui Zhai,\
+[arXiv:2512.22116](https://arxiv.org/abs/2512.22116).
 * "Kibble–Zurek Meets Tricriticality: Breakdown of Adiabatic–Impulse and New Scaling Forms",\
 **CL**,\
 [Chin. Phys. Lett. **43**, 010001 (2026)](https://doi.org/10.1088/0256-307X/43/1/010001), [arXiv:2511.21386](https://arxiv.org/abs/2511.21386),\
