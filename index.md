@@ -56,6 +56,9 @@ In an ongoing project, we focus on the Heisenberg spin chains and calculate the 
 
 # Publications
 Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).
+* "Exceptionally Slow Relaxation from Micro-canonical to Canonical Ensembles in Quasi-one-dimensional Quantum Gases",\
+Huaichuan Wang\*, Xixiang Du\*, Zhongchi Zhang\*, Yue Wu, Ken Deng, Zihan Zhao, **CL**, Zheyu Shi, Wenlan Chen, Hui Zhai, and Jiazhong Hu,\
+[arXiv:2604.04062](https://arxiv.org/abs/2604.04062).
 * "General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes",\
 Yue Wu, Meng-Yuan Li, **CL**, and Hui Zhai,\
 [arXiv:2512.22116](https://arxiv.org/abs/2512.22116).
