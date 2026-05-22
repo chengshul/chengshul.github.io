@@ -68,7 +68,7 @@ Yue Wu, Meng-Yuan Li, **CL**, and Hui Zhai,\
 <span style="color:green">invited Research Highlight article</span> for CPL, recommending [CPL **42**, 110001 (2025)](https://doi.org/10.1088/0256-307X/42/11/110001).
 * "Certifying Quantum States with Uniform Measurements",\
 Liang Mao\*, Yifei Wang\*, Yingfei Gu, and **CL**,\
-[arXiv:2508.09259](https://arxiv.org/abs/2508.09259).
+[Chin. Phys. Lett. **43**, 070601 (2026)](https://doi.org/10.1088/0256-307X/43/7/070601), [arXiv:2508.09259](https://arxiv.org/abs/2508.09259).
 * "Random displacements in critical Rydberg atom arrays",\
 Xingyu Li\*, Shuyan Zhou\*, Xue Chen, **CL**, and Hanteng Wang,\
 [Phys. Rev. B **112**, L180202 (2025)](https://doi.org/10.1103/dpn8-63p6), [arXiv:2508.05381](https://arxiv.org/abs/2508.05381).
