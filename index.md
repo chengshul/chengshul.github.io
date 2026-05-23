@@ -1,7 +1,7 @@
 # Research
 
-I am an associate member of IASTU, working in the fields of theoretical quantum matter and quantum information.
-Recently, I have been mostly interested in quantum simulation and computation with Rydberg atom arrays,
+I am an associate member of IASTU, working in the fields of **theoretical quantum matter and quantum information**.
+Recently, I have been mostly interested in quantum simulation and computation with **Rydberg atom arrays**,
 with sporatic excursions to open quantum systems, topological phases of matter, and other cold atom platforms.
 
 <!--
