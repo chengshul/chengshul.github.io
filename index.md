@@ -26,7 +26,7 @@ with sporatic excursions to open quantum systems, topological phases of matter, 
 ![5](https://raw.githubusercontent.com/chengshul/chengshul.github.io/main/5.png)
 
 # Publications
-Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).
+Also see [Google Scholar](https://scholar.google.ca/citations?user=N5ONR40AAAAJ&hl=en).
 * "Exceptionally Slow Relaxation from Micro-canonical to Canonical Ensembles in Quasi-one-dimensional Quantum Gases",\
 Huaichuan Wang\*, Xixiang Du\*, Zhongchi Zhang\*, Yue Wu, Ken Deng, Zihan Zhao, **CL**, Zheyu Shi, Wenlan Chen, Hui Zhai, and Jiazhong Hu,\
 [arXiv:2604.04062](https://arxiv.org/abs/2604.04062).
