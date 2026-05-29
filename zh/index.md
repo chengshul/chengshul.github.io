@@ -1,41 +1,39 @@
 ---
 layout: default
-lang: en
-title: Chengshu Li's homepage
-description: Institute for Advanced Study, Tsinghua University
-permalink: /
-alternate: /zh/
+lang: zh-CN
+title: 李成疏的主页
+description: 清华大学高等研究院
+permalink: /zh/
+alternate: /
 ---
 
-# Research {#research}
+# 研究 {#research}
 
-I am an associate member of IASTU, working in the fields of **theoretical quantum matter and quantum information**.
-Recently, I have been mostly interested in quantum simulation and computation with **Rydberg atom arrays**,
-with sporatic excursions to open quantum systems, topological phases of matter, and other cold atom platforms.
-![4](https://raw.githubusercontent.com/chengshul/chengshul.github.io/main/4.png)
+我目前在清华高研担任副研究员，在**量子物质与量子信息理论**这一领域开展研究工作。近期我主要关注基于**里德堡原子阵列**的量子模拟与量子计算，同时也在开放量子系统、拓扑物相、其他冷原子平台等方向有所涉猎。
+![4](/4.png)
 
-# Short CV {#short-cv}
+# 简历 {#short-cv}
 
 | --- | --- | --- |
-| Mar 2024 – now | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Associate member 
-| | | Tsinghua University |
-| Oct 2021 – Mar 2024 | | Postdoc |
-| | | Tsinghua University |
-| | | Supervisor: Prof. Hui Zhai |
-| Sep 2017 – Jul 2021 | | PhD in Physics |
-| | | University of British Columbia |
-| | | Supervisor: Prof. Marcel Franz |
-| Sep 2015 – Aug 2017 | | MSc in Physics |
-| | | University of British Columbia |
-| | | Supervisor: Prof. Marcel Franz |
-| Aug 2011 – Jul 2015 | | BSc in Physics |
-| | | Tsinghua University |
-| | | Supervisor: Prof. Li You & Prof. Meng Khoon Tey |
+| 2024年3月至今 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 副研究员 
+| | | 清华大学 |
+| 2021年10月 – 2024年3月 | | 博后 |
+| | | 清华大学 |
+| | | 合作导师：翟荟教授 |
+| 2017年9月 – 2021年7月 | | 博士 |
+| | | 英属哥伦比亚大学 |
+| | | 导师：Marcel Franz教授 |
+| 2015年9月 – 2017年8月 | | 硕士 |
+| | | 英属哥伦比亚大学 |
+| | | 导师Marcel Franz教授 |
+| 2011年8月 – 2015年7月 | | 本科 |
+| | | 清华大学 |
+| | | 导师：尤力教授、郑盟锟教授 |
 
-![5](https://raw.githubusercontent.com/chengshul/chengshul.github.io/main/5.png)
+![5](/5.png)
 
-# Publications {#publications}
-Also see [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en).
+# 论文 {#publications}
+参见 [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en)
 * "Exceptionally Slow Relaxation from Micro-canonical to Canonical Ensembles in Quasi-one-dimensional Quantum Gases",\
 Huaichuan Wang\*, Xixiang Du\*, Zhongchi Zhang\*, Yue Wu, Ken Deng, Zihan Zhao, **CL**, Zheyu Shi, Wenlan Chen, Hui Zhai, and Jiazhong Hu,\
 [arXiv:2604.04062](https://arxiv.org/abs/2604.04062).
@@ -105,15 +103,10 @@ Yanting Cheng, **CL**, and Hui Zhai,\
 Étienne Lantagne-Hurtubise\*, **CL**\*, and Marcel Franz,\
 [Phys. Rev. B **97**, 235124 (2018)](https://doi.org/10.1103/PhysRevB.97.235124), [arXiv:1803.07197](https://arxiv.org/abs/1803.07197).  
 
-The asterisk (\*) denotes equal contribution.
+星号（\*）表示共同一作。
 
-# More about me {#more-about-me}
-My name is written as 李成疏 in Chinese and it is pronounced as /li<sup>21(4)</sup> ʈ͡ʂʰɤŋ<sup>35</sup> ʂu<sup>55</sup>/. 
-(Not familiar with these symbols? They are called [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) and can be used to describe any language in the world! Did you know that [Mandarin](https://en.wikipedia.org/wiki/Standard_Chinese), like many other languages in the world, is a [tonal language](https://en.wikipedia.org/wiki/Tone_(linguistics))?) 
+# 关于我 {#more-about-me}
+我出生于河北张家口，这里作为北京的北大门是历史上重要的军事重镇。我在上海度过了小学和中学的时光，在北京读完本科后，在加拿大温哥华学习生活了六年。我在2021年回到北京正式开始工作。在物理之外，我还对语言学（如汉语音韵学）、语言学习（如法语、日语）、古典主义和浪漫主义时期音乐（如莫、贝、舒）、入门级户外运动（如百望山）感兴趣。
 
-I was born in [Zhangjiakou](https://en.wikipedia.org/wiki/Zhangjiakou), a city near [Beijing](https://en.wikipedia.org/wiki/Beijing), and moved to [Shanghai](https://en.wikipedia.org/wiki/Shanghai) at the age of 5.  I went to Beijing for my undergrad and went to grad school in [Vancouver](https://en.wikipedia.org/wiki/Vancouver).
-
-Apart from physics, I am interested in linguistics, language learning ([français](https://en.wikipedia.org/wiki/French_language) and [日本語](https://en.wikipedia.org/wiki/Japanese_language)), [classical music](https://youtu.be/yM8CFR01KwQ), and [animes](https://en.wikipedia.org/wiki/Puella_Magi_Madoka_Magica). 
-
-# Contact {#contact}
+# 联系方式 {#contact}
 lichengshu272(at)gmail(dot)com
