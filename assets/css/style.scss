@@ -79,13 +79,48 @@ html {
   scroll-padding-top: 70px; /* height of sticky header */
 }
 
-@media screen and (max-width: 992px) {
+/*@media screen and (max-width: 992px) {
 img {
     max-width: 100%; 
 }
-div.top_nav {
-    display: none;
-}
+}*/
+//div.top_nav {
+//    display: none;
+//}
+//}
+@media screen and (max-width: 992px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  div.top_nav {
+    display: block;
+    height: auto;
+    min-height: 50px;
+  }
+
+  ul.top_nav {
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  li.top_nav,
+  li.language-switch {
+    float: none;
+  }
+
+  li.top_nav a,
+  li.language-switch a {
+    font-size: 16px;
+    padding: 10px 12px;
+    margin: 0;
+  }
 }
 
 .site-nav {
