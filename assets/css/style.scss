@@ -79,6 +79,37 @@ html {
   scroll-padding-top: 70px; /* height of sticky header */
 }
 
+.site-nav {
+  color: white;
+  margin-top: 1rem;
+}
+
+.site-nav a {
+  color: white;
+  margin-right: 1rem;
+}
+
+li.language-switch {
+  float: left;
+}
+
+li.language-switch a {
+  margin-left: 1.5rem;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 25px 10px 25px;
+  vertical-align: baseline;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.language-switch a:hover {
+  text-decoration: none;
+  background-color: #373737;
+  color: white;
+}
+
 /*@media screen and (max-width: 992px) {
 img {
     max-width: 100%; 
@@ -123,33 +154,3 @@ img {
   }
 }
 
-.site-nav {
-  color: white;
-  margin-top: 1rem;
-}
-
-.site-nav a {
-  color: white;
-  margin-right: 1rem;
-}
-
-li.language-switch {
-  float: left;
-}
-
-li.language-switch a {
-  margin-left: 1.5rem;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 10px 25px 10px 25px;
-  vertical-align: baseline;
-  text-decoration: none;
-  font-size: 20px;
-}
-
-.language-switch a:hover {
-  text-decoration: none;
-  background-color: #373737;
-  color: white;
-}
