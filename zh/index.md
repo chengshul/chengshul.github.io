@@ -33,7 +33,7 @@ alternate: /
 ![5](/5.png)
 
 # 论文 {#publications}
-参见 [Google Scholar](https://scholar.google.ca/citations?user=JAjlLSwAAAAJ&hl=en)
+参见 [Google Scholar](https://scholar.google.ca/citations?user=N5ONR40AAAAJ&hl=en)
 * "Exceptionally Slow Relaxation from Micro-canonical to Canonical Ensembles in Quasi-one-dimensional Quantum Gases",\
 Huaichuan Wang\*, Xixiang Du\*, Zhongchi Zhang\*, Yue Wu, Ken Deng, Zihan Zhao, **CL**, Zheyu Shi, Wenlan Chen, Hui Zhai, and Jiazhong Hu,\
 [arXiv:2604.04062](https://arxiv.org/abs/2604.04062).
