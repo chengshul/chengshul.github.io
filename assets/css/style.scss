@@ -110,16 +110,16 @@ li.language-switch a {
   color: white;
 }
 
-/*@media screen and (max-width: 992px) {
-img {
-    max-width: 100%; 
-}
-}*/
-//div.top_nav {
-//    display: none;
-//}
-//}
 @media screen and (max-width: 992px) {
+ html,
+  body {
+    background: #f2f2f2;
+  }
+
+  #main_content_wrap {
+    background: #f2f2f2;
+  }
+
   img {
     max-width: 100%;
     height: auto;
