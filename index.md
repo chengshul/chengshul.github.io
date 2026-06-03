@@ -16,22 +16,22 @@ with sporatic excursions to open quantum systems, topological phases of matter, 
 
 # Short CV {#short-cv}
 
-| --- | --- | --- |
-| 2024 – now | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Associate member 
-| | | Tsinghua University |
-| 2021 – 2024 | | Postdoc |
-| | | Tsinghua University |
-| | | Supervisor: Prof. Hui Zhai |
-| 2017 – 2021 | | PhD in Physics |
-| | | University of British Columbia |
-| | | Supervisor: Prof. Marcel Franz |
-| 2015 – 2017 | | MSc in Physics |
-| | | University of British Columbia |
-| | | Supervisor: Prof. Marcel Franz |
-| 2011 – 2015 | | BSc in Physics |
-| | | Tsinghua University |
-| | | Supervisor: Prof. Li You &
-| | | Prof. Meng Khoon Tey |
+| | |
+| 2024 – now | Associate member 
+| | Tsinghua University |
+| 2021 – 2024 | Postdoc |
+| | Tsinghua University |
+| | Supervisor: Prof. Hui Zhai |
+| 2017 – 2021 | PhD in Physics |
+| | University of British Columbia |
+| | Supervisor: Prof. Marcel Franz |
+| 2015 – 2017 | MSc in Physics |
+| | University of British Columbia |
+| | Supervisor: Prof. Marcel Franz |
+| 2011 – 2015 | BSc in Physics |
+| | Tsinghua University |
+| | Supervisor: Prof. Li You & Prof. Meng Khoon Tey |
+{: .cv-table}
 
 ![5](https://raw.githubusercontent.com/chengshul/chengshul.github.io/main/5.png)
 
