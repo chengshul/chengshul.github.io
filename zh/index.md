@@ -35,6 +35,12 @@ alternate: /
 
 # 论文 {#publications}
 参见 [Google Scholar](https://scholar.google.ca/citations?user=N5ONR40AAAAJ&hl=en)
+* "Observation of electron spin interactions between Rydberg atoms",\
+Le Ruan\*, Ziqi Zhou\*, Yuchen Guo, **CL**, and Cheng Chen,\
+[arXiv:2608.23711](https://arxiv.org/abs/2608.23711).
+* "Universal Spin-Position Coupled Rydberg Interactions",\
+**CL** and Hui Zhai,\
+[arXiv:2608.23694](https://arxiv.org/abs/2608.23694).
 * "Unleashing Emergent Fermions with Rydberg Atom Simulators",\
 Hanteng Wang, Xingyu Li, Shang Liu, Yingfei Gu, and **CL**,\
 [arXiv:2606.19444](https://arxiv.org/abs/2606.19444).
