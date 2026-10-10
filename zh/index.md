@@ -50,9 +50,9 @@ Yuqing Wang\*, Zhongchi Zhang\*, Tao Zhang\*, Yuxuan Liao\*, Hanteng Wang, Ye Ti
 * "Exceptionally Slow Relaxation from Micro-canonical to Canonical Ensembles in Quasi-one-dimensional Quantum Gases",\
 Huaichuan Wang\*, Xixiang Du\*, Zhongchi Zhang\*, Yue Wu, Ken Deng, Zihan Zhao, **CL**, Zheyu Shi, Wenlan Chen, Hui Zhai, and Jiazhong Hu,\
 [arXiv:2604.04062](https://arxiv.org/abs/2604.04062).
-* "General Construction of Quantum Error-Correcting Codes from Multiple Classical Codes",\
+* "General construction of quantum error-correcting codes from multiple classical codes",\
 Yue Wu, Meng-Yuan Li, **CL**, and Hui Zhai,\
-[arXiv:2512.22116](https://arxiv.org/abs/2512.22116).
+[Phys. Rev. B **114**, 175138 (2026)](https://doi.org/10.1103/6c3l-8n19), [arXiv:2512.22116](https://arxiv.org/abs/2512.22116).
 * "Kibble–Zurek Meets Tricriticality: Breakdown of Adiabatic–Impulse and New Scaling Forms",\
 **CL**,\
 [Chin. Phys. Lett. **43**, 010001 (2026)](https://doi.org/10.1088/0256-307X/43/1/010001), [arXiv:2511.21386](https://arxiv.org/abs/2511.21386),\
