@@ -2,7 +2,7 @@
 layout: default
 lang: zh-CN
 title: 李成疏的主页
-description: 清华大学高等研究院
+description: 清华大学杨振宁高等研究院
 permalink: /zh/
 alternate: /
 ---
