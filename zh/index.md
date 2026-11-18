@@ -35,6 +35,9 @@ alternate: /
 
 # 论文 {#publications}
 参见 [Google Scholar](https://scholar.google.ca/citations?user=N5ONR40AAAAJ&hl=en)
+* "Observation of Crossover from Repulsive to Attractive Interactions between Two nS-Rydberg Atoms in Dual-Species Atom Arrays",\
+Yi Chen, Kun-Peng Wang, Ming-Rui Wei, Peng Zhang, Yang Wang, Yi-Bo Wang, Min Liu, Peng Xu, Xue-Yuan Wang, Xiang Gao, **CL**, Xiao-Dong He, and Ming-Sheng Zhan,\
+[arXiv:2611.21171](https://arxiv.org/abs/2611.21171).
 * "Observation of electron spin interactions between Rydberg atoms",\
 Le Ruan\*, Ziqi Zhou\*, Yuchen Guo, **CL**, and Cheng Chen,\
 [arXiv:2608.23711](https://arxiv.org/abs/2608.23711).
